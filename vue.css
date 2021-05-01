@@ -759,6 +759,12 @@ body {
     font-weight: 600
 }
 
+.markdown-section h1:before,
+.markdown-section h2:before,
+.markdown-section h3:before {
+    content: "#  ";
+}
+
 .markdown-section a {
     color: var(--theme-color, #42b983);
     font-weight: 600
@@ -769,32 +775,14 @@ body {
     margin: 0 0 1rem
 }
 
-.markdown-section h1:before {
-    color: reb(0,0,0);
-    content: "H1  ";
-    height: "1.3rem"
-}
-
 .markdown-section h2 {
     font-size: 1.75rem;
     margin: 45px 0 .8rem
 }
 
-.markdown-section h2:before {
-    color: reb(0,0,0);
-    content: "H2  ";
-    height: "1.1rem"
-}
-
 .markdown-section h3 {
     font-size: 1.5rem;
     margin: 40px 0 .6rem
-}
-
-.markdown-section h3:before {
-    color: reb(0,0,0);
-    content: "H3  ";
-    height: "0.9rem"
 }
 
 .markdown-section h4 {
