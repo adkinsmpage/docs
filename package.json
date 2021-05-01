@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "a docs so.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adkinsmpage/docs.git"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "Adkinsm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adkinsmpage/docs/issues"
+  },
+  "homepage": "https://github.com/adkinsmpage/docs#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3",
+    "docsify": "^4.12.1"
+  }
+}
