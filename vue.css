@@ -769,14 +769,29 @@ body {
     margin: 0 0 1rem
 }
 
+.markdown-section h1:before {
+    color: reb(0,0,0);
+    content: "H1";
+}
+
 .markdown-section h2 {
     font-size: 1.75rem;
     margin: 45px 0 .8rem
 }
 
+.markdown-section h2:before {
+    color: reb(0,0,0);
+    content: "H2";
+}
+
 .markdown-section h3 {
     font-size: 1.5rem;
     margin: 40px 0 .6rem
+}
+
+.markdown-section h3:before {
+    color: reb(0,0,0);
+    content: "H3";
 }
 
 .markdown-section h4 {
