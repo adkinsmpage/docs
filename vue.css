@@ -771,7 +771,8 @@ body {
 
 .markdown-section h1:before {
     color: reb(0,0,0);
-    content: "H1";
+    content: "H1  ";
+    font-size: "1pt"
 }
 
 .markdown-section h2 {
@@ -781,7 +782,8 @@ body {
 
 .markdown-section h2:before {
     color: reb(0,0,0);
-    content: "H2";
+    content: "H2  ";
+    font-size: "1pt"
 }
 
 .markdown-section h3 {
@@ -791,7 +793,8 @@ body {
 
 .markdown-section h3:before {
     color: reb(0,0,0);
-    content: "H3";
+    content: "H3  ";
+    font-size: "1pt"
 }
 
 .markdown-section h4 {
