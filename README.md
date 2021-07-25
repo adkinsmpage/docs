@@ -1,5 +1,5 @@
 # docs
 
-[G](./G/)
+## [G](./G/)
 
-[NanoAs](./nanoas/)
+## [NanoAs](./nanoas/)
