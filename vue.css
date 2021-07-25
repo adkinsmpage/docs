@@ -800,6 +800,7 @@ body {
 
 .markdown-section figure,
 .markdown-section p {
+    font-weight: 300;
     margin: 1.2em 0
 }
 
