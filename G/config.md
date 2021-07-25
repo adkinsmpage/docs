@@ -33,3 +33,9 @@ npm install hexo-generator-category
 # hexo-generator-tag
 npm install hexo-generator-tag
 ```
+
+## Header & Footer
+
+Header选项中有个 yiyan 配置项，用于将Header简介替换为一言随机句子。
+
+如果您的nav太多，影响了Header布局，可以在`主题文件夹/layout/_partial/`中的footer
