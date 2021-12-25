@@ -21,7 +21,7 @@ body:not(.ready) [data-cloak] {
 
 div#app {
     font-size: 30px;
-    font-weight: lighter;
+    font-weight: 900;
     margin: 40vh auto;
     text-align: center
 }
