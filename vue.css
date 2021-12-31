@@ -331,7 +331,8 @@ main.hidden {
     transition: opacity .3s;
     width: 284px;
     z-index: 30;
-    cursor: pointer
+    cursor: pointer;
+    position: fixed;
 }
 
 .sidebar-toggle:hover .sidebar-toggle-button {
