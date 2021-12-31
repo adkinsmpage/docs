@@ -247,7 +247,8 @@ main.hidden {
     left: 0;
     transition: transform .25s ease-out;
     width: 300px;
-    z-index: 20
+    z-index: 20;
+    position: fixed
 }
 
 .sidebar>h1 {
