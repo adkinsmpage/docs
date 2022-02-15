@@ -1,3 +1,5 @@
+!> AdonS V5 is comming ad it doesn't support Plugins now.
+
 # Plugin 开发
 
 AdonS 的 Plugin 开发是极为简单的。它要求您有中等（甚至初级）的 JavaScript 技能。如果您能熟练操作 DOM/Naive Node.js ，那更好不过.
